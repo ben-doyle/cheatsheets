@@ -1,6 +1,6 @@
-#Tmux Cheatsheet
+# Tmux Cheatsheet
 
-###Basics
+### Basics
 
 start from shell:
 
